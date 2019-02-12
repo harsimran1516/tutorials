@@ -4,6 +4,8 @@
    <head>
       <title>Password Input Control</title>
    </head>
+    <! this is the start of body >
+
 	
    <body>
       <form >
